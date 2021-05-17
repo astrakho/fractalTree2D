@@ -1,0 +1,15 @@
+{
+  "name": "treefractal",
+  "version": "1.0.0",
+  "description": "tree fractal on canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tree",
+    "fractal"
+  ],
+  "author": "alexander strakhov",
+  "license": "ISC"
+}
